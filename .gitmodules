@@ -52,3 +52,6 @@
 [submodule "example/tools/text-variant-tune"]
 	path = example/tools/text-variant-tune
 	url = https://github.com/editor-js/text-variant-tune
+[submodule "example/tools/undo"]
+	path = example/tools/undo
+	url = https://github.com/tukao89/editor.js-undo
